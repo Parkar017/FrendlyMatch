@@ -1,0 +1,7 @@
+صدى "# Fr FriendlyMatch" >> README.md 
+git init 
+add README.md 
+git الالتزام -m "الالتزام الأول" 
+git Branch -M main 
+git remote add origin https://github.com/Parkar017/Fr
+ friendlyMatch.git git push - ش الرئيسي الأصل
